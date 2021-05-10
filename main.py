@@ -20,7 +20,7 @@ import seaborn as sns
 '''CREATE DATASET'''
 
 labels =['COVID', 'non-COVID']
-data_dir = 'C:\\Users\\rojha\\Desktop\\literature\\covid19'
+data_dir = 'C:\\Users\\bakik\\Desktop\\literature\\covid19'
 train_dir = os.path.join(data_dir)
 
 train_data = []
